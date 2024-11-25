@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TUXVF0aFP0ThZh0z1Sp2wUSglhNAyckk4sZ3/SMrWvA=",
+  "Source": "VehicleRegistrationAPI",
+  "BasePath": "_content/VehicleRegistrationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
